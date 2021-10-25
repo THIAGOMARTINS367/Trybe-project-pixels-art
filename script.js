@@ -120,9 +120,6 @@ function generateRandomColors() {
     random1 = parseInt(random1);
     random2 = parseInt(random2);
     random3 = parseInt(random3);
-    console.log('1',random1)
-    console.log('2',random2)
-    console.log('3',random3)
 
     liColor[index].style.backgroundColor = 'rgb(' + random1 + ', ' + random2 + ', ' + random3 + ')';
 
