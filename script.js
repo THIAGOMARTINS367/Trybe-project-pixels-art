@@ -59,6 +59,11 @@ function changeBoardSize() {
 
   }
 
+  pixels = document.querySelectorAll('.pixel');
+  for (const key of pixels) {
+    key.style.backgroundColor = 'white';
+  }
+
 }
 
 let color = 'black';
@@ -90,7 +95,7 @@ function cleanPixels() {
     key.style.backgroundColor = 'white';
 
   }
-  
+
 }
 
 document.addEventListener('click', function(event) {
