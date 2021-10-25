@@ -98,6 +98,38 @@ function cleanPixels() {
 
 }
 
+function generateRandomColors() {
+  liColor = document.querySelectorAll('.color');
+  
+  for (let index = 1; index < liColor.length; index += 1) {
+    let random1 = Math.random() * 120;
+    let random2 = Math.random() * 120;
+    let random3 = Math.random() * 120;
+    
+    if (random1 < 1) {
+      random1 = 0;
+
+    } else if (random2 < 1) {
+      random2 = 0;
+
+    } else if (random3 < 1) {
+      random3 = 0;
+
+    }
+
+    random1 = parseInt(random1);
+    random2 = parseInt(random2);
+    random3 = parseInt(random3);
+    console.log('1',random1)
+    console.log('2',random2)
+    console.log('3',random3)
+
+    liColor[index].style.backgroundColor = 'rgb(' + random1 + ', ' + random2 + ', ' + random3 + ')';
+
+  }
+
+}
+
 document.addEventListener('click', function(event) {
   let classList = event.target.classList;
   for (const iterator of classList) {
@@ -123,3 +155,5 @@ document.addEventListener('click', function(event) {
 clearBoard.addEventListener('click', cleanPixels);
 
 generateBoard.addEventListener('click', changeBoardSize);
+
+window.onload = generateRandomColors;
