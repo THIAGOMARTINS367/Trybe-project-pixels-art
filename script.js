@@ -14,6 +14,11 @@ for (let index = 1; index <= 25; index += 1) {
 
 }
 
+let pixels = document.querySelectorAll('.pixel');
+for (const key of pixels) {
+  key.style.backgroundColor = 'white';
+}
+
 let board = 0;
 let remove = false;
 let size = 0;
@@ -79,12 +84,13 @@ function colorPixels(event) {
   
 }
 
-
 function cleanPixels() {
-  let pixels = document.querySelectorAll('.pixel');
-  for (const key in pixels) {
-    pixels[key].style.backgroundColor = 'white';
+  pixels = document.querySelectorAll('.pixel');
+  for (const key of pixels) {
+    key.style.backgroundColor = 'white';
+
   }
+  
 }
 
 document.addEventListener('click', function(event) {
