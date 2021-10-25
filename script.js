@@ -1,5 +1,6 @@
 let pixelBoard = document.querySelector('#pixel-board');
 let liColor = document.querySelectorAll('.color');
+let clearBoard = document.querySelector('#clear-board');
 
 liColor[0].style.backgroundColor = 'black';
 liColor[1].style.backgroundColor = 'blue';
@@ -34,6 +35,13 @@ function colorPixels(event) {
   
 }
 
+let pixels = document.querySelectorAll('.pixel');
+function cleanPixels() {
+  for (const key in pixels) {
+    pixels[key].style.backgroundColor = 'white';
+  }
+}
+
 document.addEventListener('click', function(event) {
   let classList = event.target.classList;
   for (const iterator of classList) {
@@ -55,3 +63,7 @@ document.addEventListener('click', function(event) {
   }
   
 });
+
+clearBoard.addEventListener('click',cleanPixels);
+
+
