@@ -27,7 +27,7 @@
 }
 
 #pixel-board {
-  width: 16%;
+  width: 210px;
   height: auto;
   padding-left: 10px;
 } 
@@ -40,4 +40,12 @@
   height: 40px;
   margin-top: -5px;
   margin-left: -1px;
+}
+
+#clear-board {
+  margin-left: 10px;
+}
+
+#board-size {
+  margin-left: 100px;
 }
