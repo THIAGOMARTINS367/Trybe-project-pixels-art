@@ -1,8 +1,8 @@
 ## Descrição
 
-Este projeto foi desenvolvido durante o período de Curso da Trybe rocket.
+Este projeto foi desenvolvido durante o período de Curso da Trybe 🚀.
 
-O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.🚀
+O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.
 
 ## Sumário
 
