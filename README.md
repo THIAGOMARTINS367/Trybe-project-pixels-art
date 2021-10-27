@@ -106,7 +106,7 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
   * Adicione uma descrição para o _Pull Request_, um título que o identifique, e clique no botão verde _"Create pull request"_. Crie da seguinte forma: `[JOAOZINHO] Projeto Pixels Art`
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-017-project-pixels-art/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a página de _Pull Requests_ do repositório e confira que o seu _Pull Request_ está criado.
 
 ---
 
@@ -188,16 +188,6 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 ---
 
 ## 👀 Observações importantes:
-  
-* Lembrem-se que como pessoas desenvolvedoras devemos fazer pesquisas e garimpar resultados para auxiliar no entendimento do assunto. Assim, para solucionar os requisitos do projeto é inevitável e estimulado que pesquisas sejam feitas nas mais variadas fontes (course, vídeos do course, google, youtube, etc) sempre tomando cuidado para utilizar fontes "confiáveis" nas pesquisas da Internet, como por exemplo:
-
-  * [Javascript.com](http://javascript.com/)
-
-  * [W3Schools](https://www.w3schools.com/js/default.asp)
-
-  * [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-  * [StackOverflow](https://pt.stackoverflow.com/questions/tagged/javascript)
 
 * Os requisitos do seu projeto são avaliados automaticamente, sendo utilizada a resolução de tela de `1366 x 768` (1366 pixels de largura por 768 pixels de altura).
 
