@@ -7,14 +7,10 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 ## Sumário
 
 - [Habilidades](#habilidades)
-  - [O que foi desenvolvido](#o-que-foi-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-- [ANTES DE INICIALIZAR A APLICAÇÃO](#antes-de-inicializar-a-aplicação)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-- [Como desenvolver](#como-desenvolver)
-  - [Linter](#linter)
-  - [Cypress](#cypress)
-
+- [O que foi desenvolvido](#o-que-foi-desenvolvido)
+- [Tecnologias usadas](#tecnologias-usadas)
+- [Antes de inicializar a aplicação](#antes-de-inicializar-a-aplicação)
+- [Linter](#linter)
 ---
 
 ## Habilidades
@@ -36,7 +32,7 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 
 ---
 
-### 🗒 ANTES DE INICIALIZAR A APLICAÇÃO:
+## ANTES DE INICIALIZAR A APLICAÇÃO:
 
 1. Clone o repositório
   * `git clone git@github.com:tryber/sd-017-project-pixels-art.git`
@@ -49,7 +45,8 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 
 3.  Inicialize o projeto
     * Utilize a extensão Live Server do VsCode ou qualquer outra para rodar o projeto em sua máquina.
-    * Caso não queira rodar o projeto em sua máquina poderá acessá-lo pelo link
+    * Caso não queira rodar o projeto em sua máquina poderá acessá-lo pelo link que está
+      no "About" deste repositório.
 ---
 
 ### Linter
@@ -68,5 +65,7 @@ Quando é executado o comando `npm run lint:styles`, ele irá avaliar se os arqu
 Quando é executado o comando `npm run lint`, ele irá avaliar se os arquivos com a extensão `JS` e `JSX` estão com o padrão correto.
 
 ---
+
+## Desmontração
 
 ![exemplo de arte com pixels](./art-with-pixels.gif)
