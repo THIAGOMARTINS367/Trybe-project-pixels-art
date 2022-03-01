@@ -11,6 +11,7 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 - [Tecnologias usadas](#tecnologias-usadas)
 - [Antes de inicializar a aplicação](#antes-de-inicializar-a-aplicação)
 - [Linter](#linter)
+- [Demonstração do Projeto](#desmontração-de-uso)
 ---
 
 ## Habilidades
@@ -35,13 +36,12 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 ## ANTES DE INICIALIZAR A APLICAÇÃO:
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-017-project-pixels-art.git`
+  * `git clone git@github.com:THIAGOMARTINS367/Trybe-project-pixels-art.git`
   * Entre na pasta do repositório na sua máquina:
     * `cd sd-017-project-pixels-art`
 
 2. Instale as dependências
-  * Instale as dependências:
-    * `npm install`
+   * `npm install`
 
 3.  Inicialize o projeto
     * Utilize a extensão Live Server do VsCode ou qualquer outra para rodar o projeto em sua máquina.
@@ -66,6 +66,6 @@ Quando é executado o comando `npm run lint`, ele irá avaliar se os arquivos co
 
 ---
 
-## Desmontração
+## Desmontração de Uso
 
 ![exemplo de arte com pixels](./art-with-pixels.gif)
