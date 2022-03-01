@@ -4,6 +4,10 @@ Este projeto foi desenvolvido durante o período de Curso da Trybe 🚀
 
 O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.
 
+### *ATENÇÃO: Para ver aplicação funcionando acesse o link no canto direito em "About"*.
+
+---
+
 ## Sumário
 
 - [Habilidades](#habilidades)
@@ -45,8 +49,6 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 
 3.  Inicialize o projeto
     * Utilize a extensão Live Server do VsCode ou qualquer outra para rodar o projeto em sua máquina.
-    * Caso não queira rodar o projeto em sua máquina poderá acessá-lo pelo link que está
-      no "About" deste repositório.
 ---
 
 ### Linter
