@@ -4,21 +4,22 @@ Este projeto foi desenvolvido durante o período de Curso da Trybe 🚀
 
 O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.
 
-### *ATENÇÃO: Para ver aplicação funcionando acesse o link no canto direito em "About"*.
+### *ATENÇÃO: Para ver a aplicação funcionando acesse o link no canto direito em "About"*.
 
 ---
 
 ## Sumário
 
-- [Habilidades](#habilidades)
+- [Habilidades](#habilidades-requeridas)
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Tecnologias usadas](#tecnologias-usadas)
 - [Antes de inicializar a aplicação](#antes-de-inicializar-a-aplicação)
 - [Linter](#linter)
 - [Demonstração do Projeto](#desmontração-de-uso)
+
 ---
 
-## Habilidades
+## Habilidades requeridas
 
 - Manipular o DOM
 
@@ -29,6 +30,7 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 ## O que foi desenvolvido
 
 - Foi implementado uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
+
 ---
 
 ## Tecnologias usadas
@@ -40,15 +42,16 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 ## ANTES DE INICIALIZAR A APLICAÇÃO:
 
 1. Clone o repositório
-  * `git clone git@github.com:THIAGOMARTINS367/Trybe-project-pixels-art.git`
+  * `git clone git@github.com:THIAGOMARTINS367/Trybe-project-todo-list.git`
   * Entre na pasta do repositório na sua máquina:
-    * `cd sd-017-project-pixels-art`
+    * `Trybe-project-pixels-art`
 
 2. Instale as dependências
    * `npm install`
 
 3.  Inicialize o projeto
     * Utilize a extensão Live Server do VsCode ou qualquer outra para rodar o projeto em sua máquina.
+
 ---
 
 ### Linter
